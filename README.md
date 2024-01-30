@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Meghak1](https://github.com/Meghak1)
 
-- 💬 Ask me about **C,C++, Cloud Computing and AI**
+- 💬 Ask me about **Cloud Computing and AI**
 
 - 📫 How to reach me **meghaakb03@gmail.com**
 
