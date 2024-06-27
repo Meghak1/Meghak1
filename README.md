@@ -103,11 +103,3 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghak1&theme=dark" alt="meghak1"/>
 </p>
-
-<p align="center">
-    <img align="center" src="https://github.com/Meghak1/Meghak1/raw/master/wave.svg" alt="Wave" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github.com/Meghak1/Meghak1/raw/master/code.svg" alt="Code" />
-</p>
