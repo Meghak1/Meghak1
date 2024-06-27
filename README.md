@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Meghaa K</h1>
 <h3 align="center">Enthusiastic about Programming and AI</h3>
 
-- 🔭 I’m currently working on **Developing my programming skills**
+- I’m currently working on **Developing my programming skills**
 - 🌱 I’m currently learning **AI and Programming**
-- 👯 I’m looking to collaborate on **Open source projects, hackathons, and workshops which can enhance my knowledge**
+- I’m looking to collaborate on **Open source projects, hackathons, and workshops which can enhance my knowledge**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Meghak1)
-- 💬 Ask me about **Cloud Computing and AI**
-- 📫 How to reach me: **meghaakb03@gmail.com**
+- Ask me about **Cloud Computing and AI**
+- How to reach me: **meghaakb03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
