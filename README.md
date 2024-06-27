@@ -105,9 +105,9 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=meghak1&theme=github-dark" alt="meghak1 activity graph"/>
+    <img align="center" src="https://github.com/Meghak1/Meghak1/raw/master/wave.svg" alt="Wave" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=meghak1&label=Profile%20views&color=0e75b6&style=flat" alt="meghak1" />
+    <img align="center" src="https://github.com/Meghak1/Meghak1/raw/master/code.svg" alt="Code" />
 </p>
