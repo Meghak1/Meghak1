@@ -103,3 +103,11 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghak1&theme=dark" alt="meghak1"/>
 </p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=meghak1&theme=github-dark" alt="meghak1 activity graph"/>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=meghak1&label=Profile%20views&color=0e75b6&style=flat" alt="meghak1" />
+</p>
