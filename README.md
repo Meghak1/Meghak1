@@ -93,6 +93,12 @@
             </a>
             <br><span style="color:white;">Python</span>
         </td>
+        <td align="center" width="96">
+            <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+            </a>
+            <br><span style="color:white;">Jupyter</span>
+        </td>
     </tr>
 </table>
 
