@@ -102,6 +102,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghak1&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghak1"/>
 </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghak1&theme=dark" alt="meghak1"/>
-</p>
+<h2> Postman API Badge</h2>
+
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
