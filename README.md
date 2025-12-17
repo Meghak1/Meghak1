@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **AI and Programming**
 - I’m looking to collaborate on **Open source projects, hackathons, and workshops which can enhance my knowledge**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Meghak1)
-- Ask me about **Cloud Computing and AI**
 - How to reach me: **meghaakb03@gmail.com**
 
 
