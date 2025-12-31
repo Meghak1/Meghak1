@@ -13,12 +13,6 @@
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-            </a>
-            <br><span style="color:white;">C</span>
-        </td>
-        <td align="center" width="96">
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
             </a>
@@ -63,12 +57,6 @@
     </tr>
     <tr>
         <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-            </a>
-            <br><span style="color:white;">JavaScript</span>
-        </td>
-        <td align="center" width="96">
             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
                 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
             </a>
@@ -97,9 +85,7 @@
 
 <br>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghak1&show_icons=true&theme=dark&locale=en&layout=compact" alt="meghak1"/>
-</p>
+
 
 <h2>Badges obtained</h2>
 
